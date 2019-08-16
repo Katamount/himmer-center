@@ -10,6 +10,6 @@ Repo for Himmer Center wordpress site.
    - **Advanced Custom Fields** (used for custom fields)
    - **Contact Form 7** (use for contact forms)
    - **Custom Post Type UI** (abbrev. CPT UI: used for creating custom post-types)
-6. In Appearance, Themes, activate **Himmer 2019** theme.
+6. In Appearance > Themes, activate **Himmer 2019** theme.
 7. Create new page called "Home", set template to "Home".
 8. Create new page called "Contact", set template to "Contact".
