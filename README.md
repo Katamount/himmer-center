@@ -3,6 +3,7 @@ Repo for Himmer Center wordpress site.
 
 ## Local Environment Setup
 1. Download / setup repo
+2. In Terminal install Gulp globally: npm install --global gulp-cli
 2. Using **MAMP** launch local site pointed to local repo
 3. Using **myPHPAdmin**, create new DB called "wordpress".
 4. Visit localhost root, which displays the boot-up Wordpress page, install WordPress. (call Site The Himmer Center, Title = Dr. Richard Himmer).
@@ -13,3 +14,6 @@ Repo for Himmer Center wordpress site.
 6. In Appearance > Themes, activate **Himmer 2019** theme.
 7. Create new page called "Home", set template to "Home".
 8. Create new page called "Contact", set template to "Contact".
+
+## Workflow
+1. When making updates to CSS/SASS use gulp watch.
