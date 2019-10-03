@@ -1,5 +1,6 @@
 # himmer-center
 Repo for Himmer Center wordpress site.
+Test comment
 
 ## Local Environment Setup
 1. Download / setup repo
