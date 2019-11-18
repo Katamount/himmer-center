@@ -35,29 +35,101 @@ get_header();
 			<p class="approach">Our approach</p>
 		</div><!-- .container -->
 	</section>
-	<section class="section services ss-style-doublediagonal">
+	<section class="section services">
 		<div class="container">
-			<header class="justify-center">
+			<header class="justify-center m_b_2">
 				<h1>Organizational options</h1>
 			</header>
 			<div class="row">
 				<div class="col col-4 col-lg-4">
-					<img src ="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-lecture.png">
-					<h3>Training Workshop</h3>
-					<p>Training workshops are usually department-team and/or purpose focused.</p>
-					<ul>
-						<li>Engineering department training on Emotional Intelligence</li>
-						<li>Sales department on increasing their closing ratios</li>
-						<li>Leaders on improving communication and innovation</li>
-					<ul>
+					<div class="card grad-orange">
+						<img src ="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-lecture.png">
+						<div class="card-body">
+							<h3>Training Workshop</h3>
+							<p>Training workshops are usually department-team and/or purpose focused.</p>
+							<ul>
+								<li>Engineering department training on Emotional Intelligence</li>
+								<li>Sales department on increasing their closing ratios</li>
+								<li>Leaders on improving communication and innovation</li>
+							</ul>
+						</div>
+					</div>
+				</div><!-- .col -->
+				<div class="col col-4 col-lg-4">
+					<div class="card grad-blue">
+						<img src ="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-keynote.png">
+						<div class="card-body">
+							<h3>Keynote Speaker</h3>
+							<p>Dr. Himmer is an engaging keynote speaker with a great sense of humor. His stories have a way of moving past motivational and landing on the transformational. He combines his experiences with principles and applies them in the training. Knowledge is not power without the ability to apply it. Experiencing a keynote address is an uplifting emotional journey that feels like your drinking from a fire-hydrant of principles and applied knowledge that leaves the participants wanting more.</p>
+						</div>
+					</div>
+				</div><!-- .col -->
+				<div class="col col-4 col-lg-4">
+					<div class="card grad-green">
+						<img src ="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-consultation.png">
+						<div class="card-body">
+							<h3>Executive Coaching</h3>
+							<p>One on one coaching for the executive. To work at the executive level without a coach is like being in surveillance without a camera and using carrier pigeons. There are so many moving parts and balancing the workload and homelife is a critical aspect of being productive. It is not so much about time management but more about prioritizing life based on governing principles. Having one’s own Rules of Engagement and Conditions of Satisfaction are first steps to creating the right environment that makes good decisions for you.</p>
+						</div>
+					</div>
 				</div><!-- .col -->
 
 			</div><!-- .row -->
-			<h3 class="services-cta">You don’t encounter these problems?<br> <span>Prove it.</span></h3>
+			<h3 class="m_t_2">Speaking and training topics</h3>
+			<ul class="topics">
+				<li>Leadership vs. management training</li>
+				<li>Emotional intelligence</li>
+				<li>Communication skills</li>
+				<li>Civility in the workplace (bullying)</li>
+				<li>Employee engagement and retention</li>
+				<li>Employee hiring</li>
+			</ul>
+			<p class="text-center">The <a href="https://www.harrisonassessments.com/">Harrison Assessment</a> is usually required for all levels of coaching.</p>
+			<h3 class="services-cta">Reach out to learn more about these services</h3>
 			<p class="text-center"><a class="btn btn-lg btn-dark" href="contact">Email me</a></p>
 		</div><!-- .container -->
 	</section>
-	<section class="section book-promo">
+	<section class="section section-top-divider services">
+		<div class="container">
+			<header class="justify-center m_b_2">
+				<h1>Individual options</h1>
+			</header>
+			<div class="row">
+				<div class="col col-6 col-lg-6">
+					<div class="card grad-orange">
+						<img src ="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-lecture.png">
+						<div class="card-body">
+							<h3>Personal coaching</h3>
+							<p>Personal coaching is a one on one experience that covers the following opportunities:</p>
+							<ul>
+								<li>Anxiety/stress</li>
+								<li>PTSD/C-PTSD</li>
+								<li>Addiction recovery</li>
+							</ul>
+						</div>
+					</div>
+				</div><!-- .col -->
+				<div class="col col-6 col-lg-6">
+					<div class="card grad-blue">
+						<img src ="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-keynote.png">
+						<div class="card-body">
+							<h3>Couples/Family coaching</h3>
+							<p>There is one condition before you consider working with Dr. Himmer; you must be willing to work on yourself and not your spouse, partner, or fiancé. Opportunities available in couples coaching:</p>
+							<ul>
+								<li>Pre-marital coaching</li>
+								<li>Communication challenges</li>
+								<li>Mixed families</li>
+							</ul>
+						</div>
+					</div>
+				</div><!-- .col -->
+
+			</div><!-- .row -->
+			<h3 class="services-cta">Reach out with any questions</h3>
+			<p class="text-center"><a class="btn btn-lg btn-dark" href="contact">Email me</a></p>
+		</div><!-- .container -->
+	</section>
+	<section class="section section-top-divider book-promo">
 		<div class="container">
 			<h2>Check out my book</h2>
 			<div class="row">
