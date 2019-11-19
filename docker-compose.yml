@@ -8,6 +8,7 @@ services:
      volumes:
        - wordpress_files:/var/www/html
        - ./uploads.ini:/usr/local/etc/php/conf.d/uploads.ini
+       - ./:/var/www/html/wp-content/themes/himmer-center
      ports:
        - "80:80"
      restart: always
