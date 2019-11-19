@@ -605,6 +605,17 @@ a {
   }
 }
 
+// Banner styles
+.banner {
+  width: 100%;
+  padding: 1rem;
+  font-weight: bold;
+
+  p {
+    margin: 0;
+  }
+}
+
 // Home page styles
 .home-page h2 {
   // font-size: 3rem;
@@ -795,6 +806,10 @@ a {
   /* IE6-9 */
 }
 
+.bg-info {
+  background-color: rgba(0, 0, 0, 0.1) !important;
+}
+
 .services-cta {
   margin: 3rem 0;
   font-size: 2.5rem;
@@ -823,8 +838,8 @@ a {
 }
 
 .services .topics {
-  padding:0;
-} 
+  padding: 0;
+}
 
 .services .topics li {
   padding: 0.5em 1em;

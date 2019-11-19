@@ -41,7 +41,7 @@ get_header();
 				<h1>Organizational options</h1>
 			</header>
 			<div class="row">
-				<div class="col col-4 col-lg-4">
+				<div class="col col-4 col-lg-4 d-flex">
 					<div class="card grad-orange">
 						<img src ="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-lecture.png">
 						<div class="card-body">
@@ -55,7 +55,7 @@ get_header();
 						</div>
 					</div>
 				</div><!-- .col -->
-				<div class="col col-4 col-lg-4">
+				<div class="col col-4 col-lg-4 d-flex">
 					<div class="card grad-blue">
 						<img src ="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-keynote.png">
 						<div class="card-body">
@@ -64,7 +64,7 @@ get_header();
 						</div>
 					</div>
 				</div><!-- .col -->
-				<div class="col col-4 col-lg-4">
+				<div class="col col-4 col-lg-4 d-flex">
 					<div class="card grad-green">
 						<img src ="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-consultation.png">
 						<div class="card-body">
@@ -84,7 +84,9 @@ get_header();
 				<li>Employee engagement and retention</li>
 				<li>Employee hiring</li>
 			</ul>
-			<p class="text-center">The <a href="https://www.harrisonassessments.com/">Harrison Assessment</a> is usually required for all levels of coaching.</p>
+			<div class="banner bg-info">
+				<p class="text-center"> The <a href="https://www.harrisonassessments.com/">Harrison Assessment</a> is usually required for all levels of coaching.</p>
+			</div>
 			<h3 class="services-cta">Reach out to learn more about these services</h3>
 			<p class="text-center"><a class="btn btn-lg btn-dark" href="contact">Email me</a></p>
 		</div><!-- .container -->
@@ -95,7 +97,7 @@ get_header();
 				<h1>Individual options</h1>
 			</header>
 			<div class="row">
-				<div class="col col-6 col-lg-6">
+				<div class="col col-6 col-lg-6 d-flex">
 					<div class="card grad-orange">
 						<img src ="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-lecture.png">
 						<div class="card-body">
@@ -109,7 +111,7 @@ get_header();
 						</div>
 					</div>
 				</div><!-- .col -->
-				<div class="col col-6 col-lg-6">
+				<div class="col col-6 col-lg-6 d-flex">
 					<div class="card grad-blue">
 						<img src ="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-keynote.png">
 						<div class="card-body">
