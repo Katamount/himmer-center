@@ -3,20 +3,25 @@
 // Just copy a variable from src/sass/bootstrap4/_variables.scss, paste it here and edit the value.
 
 
-$font-family-sans-serif: "Nunito Sans", "Helvetica Neue", Arial, "Noto Sans", sans-serif, !default;
+$font-family-sans-serif: "Nunito Sans",
+"Helvetica Neue",
+Arial,
+"Noto Sans",
+sans-serif,
+ !default;
 $headings-font-weight: 700 !default;
 
 
 // $primary: #5533ff; // Thats a sample how you could change a BootStrap variable.
 
 // Color styles
-$blue:    #00489c !default;
-$indigo:  #6610f2 !default;
-$purple:  #6f42c1 !default;
-$pink:    #e83e8c !default;
-$red:     #dc3545 !default;
-$orange:  #fd7e14 !default;
-$yellow:  #ffc107 !default;
-$green:   #02824d !default;
-$teal:    #20c997 !default;
-$cyan:    #17a2b8 !default;
+$blue: #00489c !default;
+$indigo: #6610f2 !default;
+$purple: #6f42c1 !default;
+$pink: #e83e8c !default;
+$red: #dc3545 !default;
+$orange: #fd7e14 !default;
+$yellow: #f5c63c !default;
+$green: #02824d !default;
+$teal: #20c997 !default;
+$cyan: #17a2b8 !default;

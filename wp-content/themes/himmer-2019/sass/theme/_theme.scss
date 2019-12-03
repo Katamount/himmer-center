@@ -791,7 +791,7 @@ a {
 }
 
 .bg-light-yellow {
-  background-color: #f5c63c;
+  background-color: $yellow;
 }
 
 .bg-light-blue {
@@ -889,7 +889,7 @@ a {
 .book-promo {}
 
 .book-promo .book-details {
-  padding-top: 4rem;
+  padding-top: 2rem;
 }
 
 .book-promo .book-title {
