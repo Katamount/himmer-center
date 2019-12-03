@@ -42,7 +42,7 @@ get_header();
 			</header>
 			<div class="row">
 				<div class="col col-4 col-lg-4 d-flex">
-					<div class="card grad-orange">
+					<div class="card bg-light-yellow">
 						<img src ="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-lecture.png">
 						<div class="card-body">
 							<h3>Training Workshop</h3>
@@ -56,7 +56,7 @@ get_header();
 					</div>
 				</div><!-- .col -->
 				<div class="col col-4 col-lg-4 d-flex">
-					<div class="card grad-blue">
+					<div class="card bg-light-blue">
 						<img src ="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-keynote.png">
 						<div class="card-body">
 							<h3>Keynote Speaker</h3>
@@ -65,7 +65,7 @@ get_header();
 					</div>
 				</div><!-- .col -->
 				<div class="col col-4 col-lg-4 d-flex">
-					<div class="card grad-green">
+					<div class="card bg-light-green">
 						<img src ="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-consultation.png">
 						<div class="card-body">
 							<h3>Executive Coaching</h3>
@@ -84,8 +84,11 @@ get_header();
 				<li>Employee engagement and retention</li>
 				<li>Employee hiring</li>
 			</ul>
-			<div class="banner bg-info">
-				<p class="text-center"> The <a href="https://www.harrisonassessments.com/">Harrison Assessment</a> is usually required for all levels of coaching.</p>
+			<div class="banner">
+				<div class="banner-body">
+					<img class="logo-harrison" src="https://himmer-center.s3.us-east-2.amazonaws.com/harrison-assessments-logo.png" alt="The Harrison Assessment">
+					<p> The <a href="https://www.harrisonassessments.com/">Harrison Assessment</a> is usually required for all levels of coaching.</p>
+				</div>
 			</div>
 			<h3 class="services-cta">Reach out to learn more about these services</h3>
 			<p class="text-center"><a class="btn btn-lg btn-dark" href="contact">Email me</a></p>
@@ -98,7 +101,7 @@ get_header();
 			</header>
 			<div class="row">
 				<div class="col col-6 col-lg-6 d-flex">
-					<div class="card grad-orange">
+					<div class="card bg-light-red">
 						<img src ="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-lecture.png">
 						<div class="card-body">
 							<h3>Personal coaching</h3>
@@ -112,7 +115,7 @@ get_header();
 					</div>
 				</div><!-- .col -->
 				<div class="col col-6 col-lg-6 d-flex">
-					<div class="card grad-blue">
+					<div class="card bg-light-blue">
 						<img src ="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-keynote.png">
 						<div class="card-body">
 							<h3>Couples/Family coaching</h3>
