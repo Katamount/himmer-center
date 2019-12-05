@@ -17,4 +17,5 @@ Test comment
 8. Create new page called "Contact", set template to "Contact".
 
 ## Workflow
-1. When making updates to CSS/SASS use gulp watch.
+- CSS Compile: When making updates to CSS/SASS use gulp watch.
+- Deploy theme changes: $./theme-deployment.sh (excute at repo root).
