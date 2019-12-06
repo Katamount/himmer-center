@@ -783,6 +783,12 @@ a {
     filter: invert(100%);
   }
 }
+@media screen and (max-width: 768px) {
+  .services .card {
+    margin-bottom:2rem;
+  }
+
+}
 
 .services .card .card-body {
   padding: 2rem;

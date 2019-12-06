@@ -19,13 +19,13 @@ get_header();
 		<div class="container">
 			<h1 class="mission-intro"><span class="smaller">I design and fullfill</span><br> <em>wellness</em> perscriptions<br> <span class="smaller">for orgs and families.</span></h1>
 			<div class="row">
-				<div class="col col-12 col-md-6">
+				<div class="col-12 col-md-6">
 					<div class="perscription">
 						<img class="rx-icon" src="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-rx-logo.png" >
 						<h2 class="mission-stmt"><b>Organizations</b><br> need a healthy culture</h2>
 					</div>
 				</div>
-				<div class="col col-12 col-md-6">
+				<div class="col-12 col-md-6">
 					<div class="perscription">
 						<img class="rx-icon" src="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-rx-logo.png" >
 						<h2 class="mission-stmt"><b>Individuals</b><br> need a safe environment</h2>
@@ -41,7 +41,7 @@ get_header();
 				<h1>Organizational options</h1>
 			</header>
 			<div class="row">
-				<div class="col col-4 col-lg-4 d-flex">
+				<!-- <div class="col-12 col-lg-4 d-flex">
 					<div class="card bg-light-yellow">
 						<img src ="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-lecture.png">
 						<div class="card-body">
@@ -54,8 +54,17 @@ get_header();
 							</ul>
 						</div>
 					</div>
-				</div><!-- .col -->
-				<div class="col col-4 col-lg-4 d-flex">
+				</div> -->
+				<div class="col-12 col-lg-4 d-flex">
+					<div class="card bg-light-yellow">
+						<img src ="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-keynote.png">
+						<div class="card-body">
+							<h3>Training Workshop</h3>
+							<p>Training workshops are usually department-team and/or purpose focused.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-12 col-lg-4 d-flex">
 					<div class="card bg-light-blue">
 						<img src ="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-keynote.png">
 						<div class="card-body">
@@ -63,8 +72,8 @@ get_header();
 							<p>Dr. Himmer is an engaging keynote speaker with a great sense of humor. His stories have a way of moving past motivational and landing on the transformational. He combines his experiences with principles and applies them in the training. Knowledge is not power without the ability to apply it. Experiencing a keynote address is an uplifting emotional journey that feels like your drinking from a fire-hydrant of principles and applied knowledge that leaves the participants wanting more.</p>
 						</div>
 					</div>
-				</div><!-- .col -->
-				<div class="col col-4 col-lg-4 d-flex">
+				</div>
+				<div class="col-12 col-lg-4 d-flex">
 					<div class="card bg-light-green">
 						<img src ="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-consultation.png">
 						<div class="card-body">
@@ -72,7 +81,8 @@ get_header();
 							<p>One on one coaching for the executive. To work at the executive level without a coach is like being in surveillance without a camera and using carrier pigeons. There are so many moving parts and balancing the workload and homelife is a critical aspect of being productive. It is not so much about time management but more about prioritizing life based on governing principles. Having one’s own Rules of Engagement and Conditions of Satisfaction are first steps to creating the right environment that makes good decisions for you.</p>
 						</div>
 					</div>
-				</div><!-- .col -->
+				</div>
+
 
 			</div><!-- .row -->
 			<h3 class="m_t_2">Speaking and training topics</h3>
