@@ -101,7 +101,7 @@ get_header();
 				<h1>Individual options</h1>
 			</header>
 			<div class="row">
-				<div class="col col-6 col-lg-6 d-flex">
+				<div class="col-12 col-lg-6 d-flex">
 					<div class="card bg-light-red">
 						<img src ="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-lecture.png">
 						<div class="card-body">
@@ -115,7 +115,7 @@ get_header();
 						</div>
 					</div>
 				</div><!-- .col -->
-				<div class="col col-6 col-lg-6 d-flex">
+				<div class="col-12 col-lg-6 d-flex">
 					<div class="card bg-light-blue">
 						<img src ="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-keynote.png">
 						<div class="card-body">
