@@ -41,7 +41,7 @@ get_header();
 				<h1>Organizational options</h1>
 			</header>
 			<div class="row">
-				<!-- <div class="col-12 col-lg-4 d-flex">
+				<div class="col-12 col-lg-4 d-flex">
 					<div class="card bg-light-yellow">
 						<img src ="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-lecture.png">
 						<div class="card-body">
@@ -52,15 +52,6 @@ get_header();
 								<li>Sales department on increasing their closing ratios</li>
 								<li>Leaders on improving communication and innovation</li>
 							</ul>
-						</div>
-					</div>
-				</div> -->
-				<div class="col-12 col-lg-4 d-flex">
-					<div class="card bg-light-yellow">
-						<img src ="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-keynote.png">
-						<div class="card-body">
-							<h3>Training Workshop</h3>
-							<p>Training workshops are usually department-team and/or purpose focused.</p>
 						</div>
 					</div>
 				</div>
