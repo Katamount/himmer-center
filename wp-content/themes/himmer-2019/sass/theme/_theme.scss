@@ -387,6 +387,7 @@ a {
   margin-left: auto;
 }
 
+
 .entry-meta {
   font-size: 1rem;
   margin-bottom: 1.5rem;
@@ -612,6 +613,14 @@ a {
 .post-navigation,
 .pagination {
   padding: 2rem 0;
+}
+
+@media screen and (max-width: 768px) {
+
+  .post-navigation,
+  .pagination {
+    padding: 2rem 2rem;
+  }
 }
 
 .comments-area {
