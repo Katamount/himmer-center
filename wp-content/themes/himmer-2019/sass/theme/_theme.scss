@@ -616,7 +616,6 @@ a {
 }
 
 @media screen and (max-width: 768px) {
-
   .post-navigation,
   .pagination {
     padding: 2rem 2rem;
@@ -626,6 +625,12 @@ a {
 .comments-area {
   background: rgba(0, 0, 0, 0.05);
   padding: 4rem 0;
+}
+
+@media screen and (max-width: 768px) {
+  .comments-area {
+    padding: 2rem 0;
+  }
 }
 
 .comments-area .comments-title {
