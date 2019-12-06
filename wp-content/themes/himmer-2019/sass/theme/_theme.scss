@@ -336,6 +336,23 @@ a {
   margin-bottom: 1.5rem;
 }
 
+.entry-meta .author-badge {
+  max-width: 3.5rem;
+  display: inline-block;
+  margin-right: 0.5rem;
+  border-radius: 50%;
+  vertical-align: top;
+}
+
+.entry-meta .entry-meta-data {
+  display: inline-block;
+}
+
+.entry-meta .byline,
+.entry-meta .posted-on {
+  display: block;
+}
+
 .entry-meta .byline {
   padding-right: 0.75rem;
 }
@@ -343,6 +360,7 @@ a {
 .entry-meta .byline .author {
   font-weight: 700;
 }
+
 
 .type-event .entry-meta {
   display: none;
@@ -776,7 +794,7 @@ a {
   -webkit-box-shadow: 2px 2px 20px 15px rgba(204, 204, 204, 0.25);
   -moz-box-shadow: 2px 2px 20px 15px rgba(204, 204, 204, 0.25);
   box-shadow: 2px 2px 20px 15px rgba(204, 204, 204, 0.25);
-  border:none;
+  border: none;
 
   img {
     height: 5em;
@@ -787,9 +805,10 @@ a {
     filter: invert(100%);
   }
 }
+
 @media screen and (max-width: 768px) {
   .services .card {
-    margin-bottom:2rem;
+    margin-bottom: 2rem;
   }
 
 }

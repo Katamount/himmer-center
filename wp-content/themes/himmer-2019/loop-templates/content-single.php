@@ -23,9 +23,14 @@ if ( ! defined( 'ABSPATH' ) ) {
 			<?php the_title( '<h1 class="entry-title">', '</h1>' ); ?>
 
 			<div class="entry-meta">
-
-				<?php understrap_posted_on(); ?>
-
+				<?php
+					$author_id = get_the_author_meta('ID');
+					$author_badge = get_field('author_badge', 'user_'. $author_id );
+				?>
+				<img class="author-badge" src="<?php echo $author_badge['url']; ?>" alt="<?php echo $author_badge['alt']; ?>" />
+				<div class="entry-meta-data">
+					<?php understrap_posted_on(); ?>
+				</div>
 			</div><!-- .entry-meta -->
 		</div><!-- .container -->
 	</header><!-- .entry-header -->
