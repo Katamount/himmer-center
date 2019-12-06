@@ -22,7 +22,7 @@ get_header();
 					<p class="font_1_75 font-weight-normal">It costs nothing to reach out and start a conversation.</p>
 			</header>
 			<div class="form-wrapper">
-				<?php echo do_shortcode('[contact-form-7 id="11" title="Contact"]'); ?>
+				<?php echo do_shortcode('[contact-form-7 id="13" title="Contact"]'); ?>
 			</div>
 		</div><!-- .container -->
 	</section>
