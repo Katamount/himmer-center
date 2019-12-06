@@ -216,7 +216,7 @@ get_header();
 	<section class="section subscribe">
 		<div class="container">
 			<h2>Subscribe to self-improvement</h2>
-			<p class="font_2 m_b_2">When I write and publish something, you will be the first to know.
+			<p class="font_1_5 m_b_2">When I write and publish something, you will be the first to know.
 			<!-- Begin Mailchimp Signup Form -->
 			<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 			<style type="text/css">
