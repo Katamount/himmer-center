@@ -338,12 +338,30 @@ a {
   overflow: hidden;
 }
 
+@media screen and (max-width: 768px) {
+  .site-main {
+    padding-top: 70px;
+    overflow: hidden;
+  }
+}
+
 // Entry styles
 .type-post,
 .type-page,
 .type-event,
 .index {
   padding-top: 4rem;
+}
+
+@media screen and (max-width: 768px) {
+
+  .type-post,
+  .type-page,
+  .type-event,
+  .index {
+    padding-top: 2rem;
+  }
+
 }
 
 .index {
