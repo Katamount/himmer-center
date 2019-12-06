@@ -1,5 +1,11 @@
 // This is an empty scss file for your custom styles - Please add your super duper awesome mega design styles here
 // SCSS Syntax http://sass-lang.com/documentation/file.SASS_REFERENCE.html#css_extensions
+@media screen and (max-width: 768px) {
+  html {
+    font-size: 10px;
+  }
+}
+
 a {
   color: inherit;
 }
@@ -272,8 +278,15 @@ a {
   transition: all 0.15s ease;
 }
 
+.navbar-light .navbar-brand:hover {
+  svg {
+    fill: $slate;
+    transition: all 0.15s ease;
+  }
+}
+
 .nav-desc,
-.brand-subtext {
+.navbar-brand-subtext {
   margin: 0;
   font-size: 0.85rem;
   display: block;
@@ -282,6 +295,16 @@ a {
 
 .navbar-light .navbar-brand {
   padding-left: 0;
+}
+
+.navbar-brand-logo,
+.navbar-brand-text {
+  display: inline-block;
+}
+
+.navbar-brand .navbar-brand-logo {
+  height: 3.5rem;
+  vertical-align: top;
 }
 
 @media screen and (max-width: 980px) {
@@ -294,6 +317,21 @@ a {
     display: none;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .navbar-collapse {
+    background-color: rgba(0, 0, 0, 0.9);
+    z-index: 99;
+  }
+
+  .navbar-collapse .navbar-nav .menu-item .nav-link,
+  .navbar-collapse .navbar-nav .menu-item .nav-link.active {
+    color: #fff;
+    padding: 0.5rem 1rem;
+  }
+}
+
+
 
 .site-main {
   padding-top: 100px;
