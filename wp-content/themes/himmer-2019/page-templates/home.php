@@ -17,7 +17,6 @@ get_header();
 <main class="site-main home-page" id="main" role="main">
 	<section class="home-hero">
 		<div class="container">
-			<h1 class="mission-intro"><span class="smaller">I design and fullfill</span><br> <em>wellness</em> perscriptions<br> <span class="smaller">for orgs and families.</span></h1>
 			<div class="row">
 				<div class="col-12 col-md-6">
 					<div class="perscription">
@@ -28,10 +27,11 @@ get_header();
 				<div class="col-12 col-md-6">
 					<div class="perscription">
 						<img class="rx-icon" src="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-rx-logo.png" >
-						<h2 class="mission-stmt"><b>Individuals</b><br> need a safe environment</h2>
+						<h2 class="mission-stmt"><b>Individuals</b><br> need an identity</h2>
 					</div>
 				</div>
 			</div><!-- .row -->
+			<h1 class="mission-intro"><span class="smaller">You don't need a therapist</span><br> you need a system.</h1>
 			<p class="approach">Our approach</p>
 		</div><!-- .container -->
 	</section>
@@ -51,6 +51,9 @@ get_header();
 								<li>Engineering department training on Emotional Intelligence</li>
 								<li>Sales department on increasing their closing ratios</li>
 								<li>Leaders on improving communication and innovation</li>
+								<li>Company culture</li>
+								<li>Engagement and development training</li>
+								<li>Workplace bullying awareness and prevention</li>
 							</ul>
 						</div>
 					</div>
@@ -60,7 +63,16 @@ get_header();
 						<img src ="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-keynote.png">
 						<div class="card-body">
 							<h3>Keynote Speaker</h3>
-							<p>Dr. Himmer is an engaging keynote speaker with a great sense of humor. His stories have a way of moving past motivational and landing on the transformational. He combines his experiences with principles and applies them in the training. Knowledge is not power without the ability to apply it. Experiencing a keynote address is an uplifting emotional journey that feels like your drinking from a fire-hydrant of principles and applied knowledge that leaves the participants wanting more.</p>
+							<ul>
+								<li>Engaging speaker</li>
+								<li>Great sense of humor</li>
+								<li>Stories that move past motivational to transformational</li>
+								<li>Decades of experience</li>
+								<li>Principle based</li>
+								<li>Emotional Intelligence expert</li>
+								<li>Uplifting emotional journey from a fire-hydrant of principles</li>
+								<li>Immediate take-aways</li>
+							</ul>
 						</div>
 					</div>
 				</div>
@@ -69,7 +81,14 @@ get_header();
 						<img src ="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-consultation.png">
 						<div class="card-body">
 							<h3>Executive Coaching</h3>
-							<p>One on one coaching for the executive. To work at the executive level without a coach is like being in surveillance without a camera and using carrier pigeons. There are so many moving parts and balancing the workload and homelife is a critical aspect of being productive. It is not so much about time management but more about prioritizing life based on governing principles. Having one’s own Rules of Engagement and Conditions of Satisfaction are first steps to creating the right environment that makes good decisions for you.</p>
+							<ul>
+								<li>One on One executive coaching</li>
+								<li>Work/Life balance</li>
+								<li>Prioritize vs. manage your time</li>
+								<li>Create your Rules of Engagement and Conditions of Satisfaction</li>
+								<li>Develop your Foxhole (principle-based container that makes decisions for you</li>
+								<li>Go deep with your Harrison assessment (EI, traits/behaviors/paradoxes)</li>
+							</ul>
 						</div>
 					</div>
 				</div>
@@ -111,6 +130,9 @@ get_header();
 								<li>Anxiety/stress</li>
 								<li>PTSD/C-PTSD</li>
 								<li>Addiction recovery</li>
+								<li>Trauma recovery</li>
+								<li>Personal growth</li>
+								<li>Learn thriving life skills</li>
 							</ul>
 						</div>
 					</div>
@@ -125,6 +147,9 @@ get_header();
 								<li>Pre-marital coaching</li>
 								<li>Communication challenges</li>
 								<li>Mixed families</li>
+								<li>Codependency</li>
+								<li>In-laws</li>
+								<li>Repairing &amp; building the relationship</li>
 							</ul>
 						</div>
 					</div>
