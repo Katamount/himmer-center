@@ -21,7 +21,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 	    <div class="row">
 	      <div class="col-lg-6 col-sm-12">
 	        <h2>Dr. Richard Himmer</h2>
-	        <p>Dr. Himmer is a professional keynote speaker and workshop facilitator. He is an author and organizational consultant. He coaches excutives, entrepreneaurs, couples, parents, and inidivials who want to transform and grow.</p>
+	        <p>Dr. Himmer is a professional keynote speaker and workshop facilitator. He is an author and organizational consultant. He coaches excutives, entrepreneaurs, couples, parents, and inidivuals who want to transform and grow.</p>
 	        <a class="mt-2 text-center btn btn-dark" href="#">About Dr. Himmer</a>
 	      </div>
 	      <div class="col-lg-6 col-sm-12 bio-img">
