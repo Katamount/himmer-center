@@ -30,7 +30,7 @@ get_header();
           <p>We address why there is so much pain and misery in the world and how anyone can create their own heaven on earth. It starts with prioritizing oneself. Everyone has an authentic self. Find him/her and you find happiness, joy, and well-being.</p>
         </div>
         <div class="col d-none d-sm-block">
-          <img class="profile-img yellow" src="https://s3-us-west-2.amazonaws.com/katamount-media/misc/richard-profile-bright-square.jpg">
+          <img class="profile-img yellow" src="https://s3-us-west-2.amazonaws.com/katamount-media/misc/cheri-profile-square.jpg">
         </div>
       </div>
     </div>

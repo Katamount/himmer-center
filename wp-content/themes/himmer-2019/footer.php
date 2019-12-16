@@ -57,7 +57,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 		  "@type": "Organization",
 			"name": "The Himmer Center",
 			"description": "Organizational consultant",
-			"url": "http:www.himmercenter.com",
+			"url": "https:www.himmercenter.com",
 		  "address": {
 		    "@type": "PostalAddress",
 		    "addressLocality": "Gig Harbor, WA",

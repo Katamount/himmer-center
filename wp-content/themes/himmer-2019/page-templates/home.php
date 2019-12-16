@@ -20,13 +20,13 @@ get_header();
 			<div class="row">
 				<div class="col-12 col-md-6">
 					<div class="perscription">
-						<img class="rx-icon" src="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-rx-logo.png" >
+						<!-- <img class="rx-icon" src="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-rx-logo.png" > -->
 						<h2 class="mission-stmt"><b>Organizations</b><br> need a healthy culture</h2>
 					</div>
 				</div>
 				<div class="col-12 col-md-6">
 					<div class="perscription">
-						<img class="rx-icon" src="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-rx-logo.png" >
+						<!-- <img class="rx-icon" src="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-rx-logo.png" > -->
 						<h2 class="mission-stmt"><b>Individuals</b><br> need an identity</h2>
 					</div>
 				</div>
