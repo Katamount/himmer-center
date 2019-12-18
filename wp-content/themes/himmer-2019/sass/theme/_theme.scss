@@ -37,12 +37,14 @@ a {
   background-color: rgba(100, 100, 100, 0.4);
 }
 
-.btn.btn-light {
+.btn.btn-light,
+.added_to_cart {
   background: rgba(255, 255, 255, 0.4);
   border: none;
 }
 
-.btn.btn-light:hover {
+.btn.btn-light:hover,
+.added_to_cart:hover {
   background: rgba(255, 255, 255, 0.6);
   border: none;
 }
