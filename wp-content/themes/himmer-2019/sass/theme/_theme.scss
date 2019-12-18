@@ -13,7 +13,8 @@ a {
 .btn {
   border: none;
   transition: all 0.15s ease;
-  font-weight:700;
+  font-weight: 700;
+  padding: 0.5em 1.25em;
 }
 
 .btn.btn-lg,
@@ -1391,11 +1392,12 @@ a {
   }
 }
 
-.woocommerce div.product p.price, .woocommerce div.product span.price {
+.woocommerce div.product p.price,
+.woocommerce div.product span.price {
   font-weight: 700;
   color: #3d9a15;
 }
 
 #woocommerce-wrapper .quantity {
-  margin-right:1rem;
+  margin-right: 1rem;
 }
