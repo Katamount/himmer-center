@@ -261,6 +261,7 @@ a {
 #wrapper-navbar {
   position: absolute;
   width: 100%;
+  z-index: 999999;
 }
 
 .navbar-light .navbar-nav .nav-link,
