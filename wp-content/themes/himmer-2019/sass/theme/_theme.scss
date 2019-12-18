@@ -1391,6 +1391,11 @@ a {
   }
 }
 
+.woocommerce div.product p.price, .woocommerce div.product span.price {
+  font-weight: 700;
+  color: #3d9a15;
+}
+
 #woocommerce-wrapper .quantity {
   margin-right:1rem;
 }
