@@ -73,7 +73,8 @@ a {
   border: 2px solid $slate:;
 
   &:hover {
-    background: $slate:;
+    background: $slate;
+    border:2px solid $slate;
   }
 }
 
