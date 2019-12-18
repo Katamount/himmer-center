@@ -64,6 +64,19 @@ a {
   border: 2px solid lighten($blue, 10%);
 }
 
+.added_to_cart {
+  padding: 0.5em;
+  width: 100%;
+  text-align: center;
+  border-radius: 5px;
+  margin-top: 1em;
+  border: 2px solid $slate:;
+
+  &:hover {
+    background: $slate:;
+  }
+}
+
 /* Utility styles */
 .m_all_1 {
   margin: 1rem;
