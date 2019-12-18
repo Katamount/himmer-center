@@ -56,6 +56,10 @@ a {
   background: rgba(0, 0, 0, 0.9);
 }
 
+.btn.btn-outline-primary {
+  border: 1px solid lighten($blue, 10%);
+}
+
 /* Utility styles */
 .m_all_1 {
   margin: 1rem;
@@ -617,6 +621,7 @@ a {
 }
 
 @media screen and (max-width: 768px) {
+
   .post-navigation,
   .pagination {
     padding: 2rem 2rem;
