@@ -2,7 +2,7 @@
 /**
  * Template Name: Podcast
  *
- * Custom template for home page
+ * Custom template for podcast page
  *
  * @package understrap
  */
@@ -14,7 +14,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 get_header();
 ?>
 <!-- == Home == -->
-<main class="site-main home-page" id="main" role="main">
+<main class="site-main podcast-page" id="main" role="main">
   <section class="section podcast-intro">
     <div class="container">
       <div class="text-center">
