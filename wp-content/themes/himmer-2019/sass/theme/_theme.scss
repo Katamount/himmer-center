@@ -75,7 +75,7 @@ a {
   &:hover {
     background: #333333;
     border: 2px solid #333333;
-    color:#fff;
+    color: #fff;
   }
 }
 
@@ -761,14 +761,17 @@ a {
 }
 
 .home-hero {
-  padding: 6rem 0 0 0;
+  padding: 3em 0 2rem 0;
+  background: rgb(240, 188, 55);
+  background: linear-gradient(145deg, rgba(240, 188, 55, 1) 0%, rgba(230, 117, 30, 1) 100%);
 }
 
 .home-hero .mission-intro {
   font-size: 4rem;
-  margin-top: 4rem;
+  // margin-top: 4rem;
   margin-bottom: 4rem;
-  color: lighten($blue, 8%);
+  // color: lighten($blue, 8%);
+  color: #fff;
   text-align: center;
 }
 
@@ -801,6 +804,7 @@ a {
   font-weight: 700;
   text-align: center;
   position: relative;
+  color:#fff;
 }
 
 .home-hero .approach:after {

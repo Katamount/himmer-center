@@ -17,6 +17,7 @@ get_header();
 <main class="site-main home-page" id="main" role="main">
 	<section class="home-hero">
 		<div class="container">
+				<h1 class="mission-intro"><span class="smaller">You don't need a therapist</span><br> you need a system.</h1>
 			<div class="row">
 				<div class="col-12 col-md-6">
 					<div class="perscription">
@@ -31,8 +32,8 @@ get_header();
 					</div>
 				</div>
 			</div><!-- .row -->
-			<h1 class="mission-intro"><span class="smaller">You don't need a therapist</span><br> you need a system.</h1>
 			<p class="approach">Our approach</p>
+
 		</div><!-- .container -->
 	</section>
 	<section class="section services">
