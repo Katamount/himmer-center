@@ -70,11 +70,11 @@ a {
   text-align: center;
   border-radius: 5px;
   margin-top: 1em;
-  border: 2px solid $slate:;
+  border: 2px solid #333333;
 
   &:hover {
-    background: $slate;
-    border:2px solid $slate;
+    background: #333333;
+    border: 2px solid #333333;
   }
 }
 
