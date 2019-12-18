@@ -18,19 +18,19 @@ get_header();
   <section class="section podcast-intro">
     <div class="container">
       <div class="text-center">
-        <img class="logo" src="https://s3-us-west-2.amazonaws.com/katamount-media/misc/authentically-you-logo-og.png" alt="authentically you">
+        <img class="logo" src="https://himmer-center.s3.us-east-2.amazonaws.com/authentically-you-logo-og.png" alt="authentically you">
         <p class="podcast-author">Podcast hosted by Richard &amp; Cheri Himmer</p>
         <p class="podcast-produce">Produced by <a href="#">Social Bytes Radio</a></p>
       </div>
       <div class="row mt-5">
         <div class="col d-none d-sm-block">
-          <img class="profile-img" src="https://s3-us-west-2.amazonaws.com/katamount-media/misc/richard-profile-bright-square.jpg">
+          <img class="profile-img" src="https://himmer-center.s3.us-east-2.amazonaws.com/richard-profile-bright-square.jpg">
         </div>
         <div class="col-12 col-lg-6">
           <p>We address why there is so much pain and misery in the world and how anyone can create their own heaven on earth. It starts with prioritizing oneself. Everyone has an authentic self. Find him/her and you find happiness, joy, and well-being.</p>
         </div>
         <div class="col d-none d-sm-block">
-          <img class="profile-img yellow" src="https://s3-us-west-2.amazonaws.com/katamount-media/misc/cheri-profile-square.jpg">
+          <img class="profile-img yellow" src="https://himmer-center.s3.us-east-2.amazonaws.com/cheri-profile-square.jpg">
         </div>
       </div>
     </div>
