@@ -233,7 +233,7 @@ get_header();
 					  </div>
 					</div><!-- .col .book-details -->
 				<div class="col-sm-4 col-lg-6 book-cover-wrapper">
-					<img class="book-cover" src="https://s3-us-west-2.amazonaws.com/katamount-media/misc/listen-lead-book-cover.jpg" alt="Listen & Lead" />
+					<img class="book-cover" src="https://himmer-center.s3.us-east-2.amazonaws.com/listen-lead-book-cover.jpg" alt="Listen & Lead" />
 				</div><!-- .col .book-cover -->
 			</div><!-- .row -->
 			<p class="m_t_4 text-center"><a class="btn btn-primary btn-lg" target="_blank" href="https://www.amazon.com/Listen-Lead-Seven-Skills-Leader/dp/1467571288">Get the book</a></p>
