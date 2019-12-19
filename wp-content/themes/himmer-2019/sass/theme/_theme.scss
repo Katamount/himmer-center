@@ -331,7 +331,7 @@ a {
   vertical-align: top;
 }
 
-@media screen and (max-width: 980px) {
+@media screen and (max-width: 1200px) {
   .navbar-light .navbar-brand {
     font-size: 1.25rem;
   }
@@ -345,7 +345,7 @@ a {
 @media screen and (max-width: 768px) {
   .navbar-collapse {
     background-color: rgba(0, 0, 0, 0.9);
-    z-index: 99;
+    z-index: 99; 
   }
 
   .navbar-collapse .navbar-nav .menu-item .nav-link,
