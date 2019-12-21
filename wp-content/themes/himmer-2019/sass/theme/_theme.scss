@@ -345,7 +345,7 @@ a {
 @media screen and (max-width: 768px) {
   .navbar-collapse {
     background-color: rgba(0, 0, 0, 0.9);
-    z-index: 99; 
+    z-index: 99;
   }
 
   .navbar-collapse .navbar-nav .menu-item .nav-link,
@@ -399,6 +399,18 @@ a {
 
 .entry-content .container p:last-child {
   margin-bottom: 0;
+}
+
+.type-post a,
+.type-page a,
+.type-event a {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+
+  &:hover {
+    text-decoration: none;
+    border-color: rgba(0, 0, 0, 0.6);
+    color: $blue;
+  }
 }
 
 .type-post .entry-header,
@@ -871,7 +883,7 @@ a {
 
 // Services section
 .services {
-  // background: $blue;
+  background-color: rgba(0, 0, 0, 0.025);
   // color:#fff;
   position: relative;
 }
@@ -882,7 +894,7 @@ a {
   margin-bottom: 1rem;
   padding: 0.75rem;
   // opacity: 0.2;
-  -webkit-filter: invert(100%);
+  // -webkit-filter: invert(100%);
   border: 1px solid rgba(255, 255, 255, 0.15);
   border-radius: 5px;
   background: rgba(255, 255, 255, 0.1);
@@ -898,13 +910,17 @@ a {
   border: none;
 
   img {
-    height: 5em;
+    height: 3em;
     width: auto;
     max-width: auto;
     margin: 0 auto;
-    -webkit-filter: invert(100%);
-    filter: invert(100%);
+    // -webkit-filter: invert(100%);
+    // filter: invert(100%);
   }
+}
+
+.services .card .card-title {
+  margin-bottom: 1.5rem;
 }
 
 @media screen and (max-width: 768px) {
@@ -915,9 +931,8 @@ a {
 }
 
 .services .card .card-body {
-  padding: 2rem;
+  padding: 3rem;
   font-size: 1.1em;
-  font-weight: 600;
 }
 
 .bg-light-yellow {

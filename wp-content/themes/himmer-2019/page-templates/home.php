@@ -40,13 +40,14 @@ get_header();
 		<div class="container">
 			<header class="justify-center m_b_2">
 				<h1>Organizational options</h1>
+				<p>The single largest concern of any organization is the well being of their personnel. At the heart of any business is the employee, they can make or break the organization. Many organizations pay lip service to the commitment and capabilities of their employees yet when times are tough, the employee is usually the first thing to be sacrificed.</p>
 			</header>
 			<div class="row">
 				<div class="col-12 col-lg-4 d-flex">
-					<div class="card bg-light-yellow">
+					<div class="card">
 						<img src ="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-lecture.png">
 						<div class="card-body">
-							<h3>Training Workshop</h3>
+							<h3 class="card-title">Training Workshop</h3>
 							<p>Training workshops are usually department-team and/or purpose focused.</p>
 							<ul>
 								<li>Engineering department training on Emotional Intelligence</li>
@@ -60,10 +61,10 @@ get_header();
 					</div>
 				</div>
 				<div class="col-12 col-lg-4 d-flex">
-					<div class="card bg-light-blue">
+					<div class="card">
 						<img src ="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-keynote.png">
 						<div class="card-body">
-							<h3>Keynote Speaker</h3>
+							<h3 class="card-title">Keynote Speaker</h3>
 							<ul>
 								<li>Engaging speaker</li>
 								<li>Great sense of humor</li>
@@ -78,10 +79,10 @@ get_header();
 					</div>
 				</div>
 				<div class="col-12 col-lg-4 d-flex">
-					<div class="card bg-light-green">
+					<div class="card">
 						<img src ="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-consultation.png">
 						<div class="card-body">
-							<h3>Executive Coaching</h3>
+							<h3 class="card-title">Executive Coaching</h3>
 							<ul>
 								<li>One on One executive coaching</li>
 								<li>Work/Life balance</li>
