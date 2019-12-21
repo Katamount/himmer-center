@@ -405,11 +405,11 @@ a {
 .type-page a,
 .type-event a {
   border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
-
+  color:$blue;
   &:hover {
     text-decoration: none;
     border-color: rgba(0, 0, 0, 0.6);
-    color: $blue;
+    color: $blue-dark;
   }
 }
 
