@@ -132,15 +132,14 @@ get_header();
 								<li>In-laws</li>
 								<li>Repairing &amp; building the relationship</li>
 							</ul>
-							<p>There is one condition before you consider working with Dr. Himmer; you must be willing to work on yourself and not your spouse, partner, or fiancé.</p> 
-
 						</div>
 					</div>
 				</div><!-- .col -->
 
 			</div><!-- .row -->
-			<h3 class="services-cta">Reach out with any questions</h3>
-			<p class="text-center"><a class="btn btn-lg btn-dark" href="contact">Email me</a></p>
+			<h3 class="services-cta">Review the individual serivces and treatments</h3>
+			<p class="text-center"><a class="btn btn-lg btn-dark" href="contact">See Individual Services</a></p>
+			<p>Terms & Conditions: You are willing to work on <strong>yourself</strong> and not your spouse, partner, or fiancé.</p>
 		</div><!-- .container -->
 	</section>
 	<section class="section section-top-divider book-promo">
