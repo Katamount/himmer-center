@@ -117,14 +117,13 @@ get_header();
 						<img src ="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-lecture.png">
 						<div class="card-body">
 							<h3>Personal coaching</h3>
-							<p>Personal coaching is a one on one experience that covers the following opportunities:</p>
+							<p>Personal coaching is a one on one experience.</p>
 							<ul>
 								<li>Anxiety/stress</li>
 								<li>PTSD/C-PTSD</li>
 								<li>Addiction recovery</li>
 								<li>Trauma recovery</li>
 								<li>Personal growth</li>
-								<li>Learn thriving life skills</li>
 							</ul>
 						</div>
 					</div>
@@ -134,15 +133,16 @@ get_header();
 						<img src ="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-keynote.png">
 						<div class="card-body">
 							<h3>Couples/Family coaching</h3>
-							<p>There is one condition before you consider working with Dr. Himmer; you must be willing to work on yourself and not your spouse, partner, or fiancé. Opportunities available in couples coaching:</p>
+							<p>Opportunities available in couples coaching:</p>
 							<ul>
 								<li>Pre-marital coaching</li>
 								<li>Communication challenges</li>
 								<li>Mixed families</li>
-								<li>Codependency</li>
 								<li>In-laws</li>
 								<li>Repairing &amp; building the relationship</li>
 							</ul>
+							<p>There is one condition before you consider working with Dr. Himmer; you must be willing to work on yourself and not your spouse, partner, or fiancé.</p> 
+
 						</div>
 					</div>
 				</div><!-- .col -->
