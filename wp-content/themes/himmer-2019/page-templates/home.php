@@ -61,15 +61,12 @@ get_header();
 						<img src ="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-keynote.png">
 						<div class="card-body">
 							<h3 class="card-title">Keynote Speaker</h3>
+							<p>Single speaking event (1-2 hours)</p>
 							<ul>
-								<li>Engaging speaker</li>
-								<li>Great sense of humor</li>
-								<li>Stories that move past motivational to transformational</li>
-								<li>Decades of experience</li>
+								<li>Topics tailored to needs of organization</li>
+								<li>Audience capacity (6 or more)</li>
 								<li>Principle based</li>
 								<li>Emotional Intelligence expert</li>
-								<li>Uplifting emotional journey from a fire-hydrant of principles</li>
-								<li>Immediate take-aways</li>
 							</ul>
 						</div>
 					</div>
