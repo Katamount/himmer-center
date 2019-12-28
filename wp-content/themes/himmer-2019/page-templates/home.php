@@ -74,13 +74,12 @@ get_header();
 						<img src ="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-consultation.png">
 						<div class="card-body">
 							<h3 class="card-title">Executive Coaching</h3>
+							<p>Individual sessions tailored to circumstances:</p>
 							<ul>
-								<li>One on One executive coaching</li>
-								<li>Work/Life balance</li>
-								<li>Prioritize vs. manage your time</li>
-								<li>Create your Rules of Engagement and Conditions of Satisfaction</li>
-								<li>Develop your Foxhole (principle-based container that makes decisions for you</li>
-								<li>Go deep with your Harrison assessment (EI, traits/behaviors/paradoxes)</li>
+								<li>Executives (C-suite)</li>
+								<li>Leaders</li>
+								<li>Sales</li>
+								<li>Department heads</li>
 							</ul>
 						</div>
 					</div>
