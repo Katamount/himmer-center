@@ -87,16 +87,14 @@ get_header();
 
 
 			</div><!-- .row -->
-			<h3 class="m_t_2">Prinicples that are covered</h3>
-			<p><a href="#1">See Organizational Principles</a></p>
+			<h3 class="m_t_2 services-cta">Prinicples that are covered</h3>
+			<p class="text-center"><a class="btn btn-lg btn-dark" href="#1">See Organizational Principles</a></p>
 			<div class="banner">
 				<div class="banner-body">
 					<img class="logo-harrison" src="https://himmer-center.s3.us-east-2.amazonaws.com/harrison-assessments-logo.png" alt="The Harrison Assessment">
 					<p> The <a href="https://www.harrisonassessments.com/">Harrison Assessment</a> is usually required for all levels of coaching.</p>
 				</div>
 			</div>
-			<h3 class="services-cta">Reach out to learn more about these services</h3>
-			<p class="text-center"><a class="btn btn-lg btn-dark" href="contact">Email me</a></p>
 		</div><!-- .container -->
 	</section>
 	<section class="section section-top-divider services">
