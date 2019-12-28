@@ -87,7 +87,7 @@ get_header();
 
 
 			</div><!-- .row -->
-			<h3 class="m_t_2 services-cta">Prinicples that are covered</h3>
+			<h3 class="m_t_2 services-cta">Review the core principles that govern effectice organizations</h3>
 			<p class="text-center"><a class="btn btn-lg btn-dark" href="#1">See Organizational Principles</a></p>
 			<div class="banner">
 				<div class="banner-body">
