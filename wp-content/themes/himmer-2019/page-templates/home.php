@@ -87,15 +87,8 @@ get_header();
 
 
 			</div><!-- .row -->
-			<h3 class="m_t_2">Speaking and training topics</h3>
-			<ul class="topics">
-				<li>Leadership vs. management training</li>
-				<li>Emotional intelligence</li>
-				<li>Communication skills</li>
-				<li>Civility in the workplace (bullying)</li>
-				<li>Employee engagement and retention</li>
-				<li>Employee hiring</li>
-			</ul>
+			<h3 class="m_t_2">Prinicples that are covered</h3>
+			<p><a href="#1">See Organizational Principles</a></p>
 			<div class="banner">
 				<div class="banner-body">
 					<img class="logo-harrison" src="https://himmer-center.s3.us-east-2.amazonaws.com/harrison-assessments-logo.png" alt="The Harrison Assessment">
