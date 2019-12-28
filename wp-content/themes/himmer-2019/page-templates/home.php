@@ -47,15 +47,11 @@ get_header();
 					<div class="card">
 						<img src ="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-lecture.png">
 						<div class="card-body">
-							<h3 class="card-title">Training Workshop</h3>
-							<p>Training workshops are usually department-team and/or purpose focused.</p>
+							<h3 class="card-title">Training Workshops</h3>
+							<p>Group hands-on session (half-day, full-day, &amp; multi-day)</p>
 							<ul>
-								<li>Engineering department training on Emotional Intelligence</li>
-								<li>Sales department on increasing their closing ratios</li>
-								<li>Leaders on improving communication and innovation</li>
-								<li>Company culture</li>
-								<li>Engagement and development training</li>
-								<li>Workplace bullying awareness and prevention</li>
+								<li>Quarterly</li>
+								<li>Train the Trainer</li>
 							</ul>
 						</div>
 					</div>
