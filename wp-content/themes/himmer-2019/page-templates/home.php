@@ -65,8 +65,6 @@ get_header();
 							<ul>
 								<li>Topics tailored to needs of organization</li>
 								<li>Audience capacity (6 or more)</li>
-								<li>Principle based</li>
-								<li>Emotional Intelligence expert</li>
 							</ul>
 						</div>
 					</div>
