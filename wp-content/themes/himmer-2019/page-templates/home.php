@@ -137,7 +137,7 @@ get_header();
 				</div><!-- .col -->
 
 			</div><!-- .row -->
-			<h3 class="services-cta">Review the individual serivces and treatments</h3>
+			<h3 class="services-cta">Review the individual services and treatments</h3>
 			<p class="text-center"><a class="btn btn-lg btn-dark" href="contact">See Individual Services</a></p>
 			<p>Terms & Conditions: You are willing to work on <strong>yourself</strong> and not your spouse, partner, or fiancé.</p>
 		</div><!-- .container -->
