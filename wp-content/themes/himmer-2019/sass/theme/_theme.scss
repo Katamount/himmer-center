@@ -412,6 +412,15 @@ a {
   }
 }
 
+// Default page template width style
+.type-page .entry-header,
+.type-page .entry-content {
+  max-width: 960px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+// Blog post width style
 .type-post .entry-header,
 .type-post .entry-content,
 .type-post .entry-footer,
