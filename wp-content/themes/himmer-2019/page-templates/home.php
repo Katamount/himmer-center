@@ -90,7 +90,7 @@ get_header();
 			<div class="banner">
 				<div class="banner-body">
 					<img class="logo-harrison" src="https://himmer-center.s3.us-east-2.amazonaws.com/harrison-assessments-logo.png" alt="The Harrison Assessment">
-					<p> The <a href="https://www.harrisonassessments.com/">Harrison Assessment</a> is usually required for all levels of coaching.</p>
+					<p> The <a href="https://www.harrisonassessments.com/" target="_blank">Harrison Assessment</a> is usually required for all levels of coaching.</p>
 				</div>
 			</div>
 		</div><!-- .container -->
