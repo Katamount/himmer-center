@@ -354,6 +354,12 @@ a {
     padding: 0.5rem 1rem;
   }
 }
+..dropdown-toggle::after {
+  position: absolute;
+  top:50%;
+  right:5px;
+  bottom:50%;
+}
 
 
 
