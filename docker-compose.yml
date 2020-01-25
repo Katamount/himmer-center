@@ -9,8 +9,8 @@ services:
       - wordpress_files:/var/www/html
       - ./uploads.ini:/usr/local/etc/php/conf.d/uploads.ini
       - ./himmer-center/wp-content/themes/himmer-2019:/var/www/html/wp-content/themes/himmer-2019
-    ports:
-      - "80:80"
+    expose:
+      - "80"
     restart: always
     environment:
       WORDPRESS_DB_HOST: db:3306
@@ -40,6 +40,9 @@ services:
       - DNSPLUGIN=route53
       - EMAIL=sphimmer@gmail.com
       - DHLEVEL=4096
+    ports:
+      - "80:80"
+      - "443:443"
     volumes:
       - ./dns/config:/config
     restart: unless-stopped
