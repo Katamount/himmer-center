@@ -20,16 +20,14 @@ get_header();
 				<h1 class="mission-intro"><span class="smaller">You don't need a therapist</span><br> you need a system.</h1>
 			<div class="row">
 				<div class="col-12 col-md-6">
-					<div class="perscription">
-						<!-- <img class="rx-icon" src="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-rx-logo.png" > -->
+					<a class="perscription" href="#organizational">
 						<h2 class="mission-stmt"><b>Organizations</b><br> need a healthy culture</h2>
-					</div>
+					</a>
 				</div>
 				<div class="col-12 col-md-6">
-					<div class="perscription">
-						<!-- <img class="rx-icon" src="https://himmer-center.s3.us-east-2.amazonaws.com/icons/icon-rx-logo.png" > -->
+					<a class="perscription" href="#individual">
 						<h2 class="mission-stmt"><b>Individuals</b><br> need an identity</h2>
-					</div>
+					</a>
 				</div>
 			</div><!-- .row -->
 			<p class="approach">Our approach</p>
@@ -38,7 +36,7 @@ get_header();
 	</section>
 	<section class="section services">
 		<div class="container">
-			<header class="justify-center m_b_2">
+			<header class="justify-center m_b_2" id="organizational">
 				<h1>Organizational options</h1>
 				<p>The single largest concern of any organization is the well being of their personnel. At the heart of any business is the employee, they can make or break the organization. Many organizations pay lip service to the commitment and capabilities of their employees yet when times are tough, the employee is usually the first thing to be sacrificed.</p>
 			</header>
@@ -88,18 +86,18 @@ get_header();
 
 			</div><!-- .row -->
 			<h3 class="m_t_2 services-cta">Review the core principles that govern effectice organizations</h3>
-			<p class="text-center"><a class="btn btn-lg btn-dark" href="#1">See Organizational Principles</a></p>
+			<p class="text-center"><a class="btn btn-lg btn-dark" href="/organizational-principles/">See Organizational Principles</a></p>
 			<div class="banner">
 				<div class="banner-body">
 					<img class="logo-harrison" src="https://himmer-center.s3.us-east-2.amazonaws.com/harrison-assessments-logo.png" alt="The Harrison Assessment">
-					<p> The <a href="https://www.harrisonassessments.com/">Harrison Assessment</a> is usually required for all levels of coaching.</p>
+					<p> The <a href="https://www.harrisonassessments.com/" target="_blank">Harrison Assessment</a> is usually required for all levels of coaching.</p>
 				</div>
 			</div>
 		</div><!-- .container -->
 	</section>
 	<section class="section section-top-divider services">
 		<div class="container">
-			<header class="justify-center m_b_2">
+			<header class="justify-center m_b_2" id="#individual">
 				<h1>Individual options</h1>
 			</header>
 			<div class="row">
@@ -138,7 +136,7 @@ get_header();
 
 			</div><!-- .row -->
 			<h3 class="services-cta">Review the individual services and treatments</h3>
-			<p class="text-center"><a class="btn btn-lg btn-dark" href="contact">See Individual Services</a></p>
+			<p class="text-center"><a class="btn btn-lg btn-dark" href="/individual-principles/">See Individual Services</a></p>
 			<p>Terms & Conditions: You are willing to work on <strong>yourself</strong> and not your spouse, partner, or fiancé.</p>
 		</div><!-- .container -->
 	</section>

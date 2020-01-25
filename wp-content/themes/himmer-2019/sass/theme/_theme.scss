@@ -355,6 +355,15 @@ a {
   }
 }
 
+.dropdown-toggle::after {
+  position: absolute;
+  top:50%;
+  right:5px;
+  bottom:50%;
+}
+.dropdown-item {
+  font-weight: bold;
+}
 
 
 .site-main {
@@ -1436,6 +1445,7 @@ a {
   }
 }
 
+// Woocommerce Custom styles
 .woocommerce div.product p.price,
 .woocommerce div.product span.price {
   font-weight: 700;
@@ -1445,4 +1455,8 @@ a {
 #woocommerce-wrapper .quantity .qty {
   margin-right: 1rem;
   padding: 0.5em 0;
+}
+
+.woocommerce #order_review_heading {
+  margin-top:2rem;
 }
