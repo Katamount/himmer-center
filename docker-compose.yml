@@ -41,7 +41,7 @@ services:
       - EMAIL=sphimmer@gmail.com
       - DHLEVEL=4096
     volumes:
-      - </path/to/appdata/config>:/config
+      - dns/config:/config
     restart: unless-stopped
 volumes:
     wordpress_files:
