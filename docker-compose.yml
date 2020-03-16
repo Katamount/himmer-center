@@ -9,7 +9,6 @@ services:
       - wordpress_files:/var/www/html
       - ./uploads.ini:/usr/local/etc/php/conf.d/uploads.ini
       - ./himmer-center/wp-content/themes/himmer-2019:/var/www/html/wp-content/themes/himmer-2019
-      - ./wp-config.php:/var/www/html/wp-config.php
     expose:
       - "80"
     ports:
