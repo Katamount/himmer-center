@@ -20,7 +20,7 @@ get_header();
       <div class="text-center">
         <img class="logo" src="https://himmer-center.s3.us-east-2.amazonaws.com/authentically-you-logo-og.png" alt="authentically you">
         <p class="podcast-author">Podcast hosted by Richard &amp; Cheri Himmer</p>
-        <p class="podcast-produce">Produced by <a href="#">Social Bytes Radio</a></p>
+        <p class="podcast-produce">Produced by <a href="#">Society Bytes Radio</a></p>
       </div>
       <div class="row mt-5">
         <div class="col d-none d-sm-block">

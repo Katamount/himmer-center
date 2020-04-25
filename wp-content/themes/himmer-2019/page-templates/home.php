@@ -97,7 +97,7 @@ get_header();
 	</section>
 	<section class="section section-top-divider services">
 		<div class="container">
-			<header class="justify-center m_b_2" id="#individual">
+			<header class="justify-center m_b_2" id="individual">
 				<h1>Individual options</h1>
 			</header>
 			<div class="row">
